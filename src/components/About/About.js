@@ -2,7 +2,7 @@ import classes from './About.module.css'
 import PageHeader from './../PageHeader/PageHeader'
 import profile from './../../img/profile.svg'
 
-const About = () => {
+const About = () => { 
     return ( 
         <div className={classes.AboutMe} id="about">
             <PageHeader title={'About Me'}/>
