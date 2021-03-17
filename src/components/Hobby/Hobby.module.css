@@ -1,0 +1,29 @@
+.AboutHobby {
+    background: #141313;
+    padding: 5%;  
+}
+
+.AboutHobby .Container {
+    display: flex;
+}
+
+.AboutHobby .Container .Text{
+    width: 47%;
+    margin-right: 3%;
+}
+
+.AboutHobby .Container .Text h2{
+    font-weight: 900;
+    font-size: 46px;
+}
+
+.AboutHobby .Container .Photo {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.AboutHobby .Container .Photo .Cinema{
+    height: 480px;
+    
+}
