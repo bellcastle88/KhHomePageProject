@@ -10,3 +10,7 @@ Built with:
 - Javascript  
 - HTML
 - CSS  
+
+## Acknowledgments
+
+* [DEVAMS] https://www.youtube.com/watch?v=0o_JVcSKxRA
