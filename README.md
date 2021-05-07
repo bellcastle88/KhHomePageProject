@@ -6,7 +6,7 @@ I created this React Portfolio website to introduce myself.
 
 Built with:
  
-- React
+- React 
 - Javascript  
 - HTML
 - CSS   
