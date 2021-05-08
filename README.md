@@ -7,7 +7,7 @@ I created this React Portfolio website to introduce myself.
 Built with:
  
 - React 
-- Javascript  
+- Javascript   
 - HTML
 - CSS   
 
