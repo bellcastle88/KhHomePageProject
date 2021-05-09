@@ -9,7 +9,7 @@ Built with:
 - React 
 - Javascript   
 - HTML
-- CSS   
+- CSS     
 
 ## Acknowledgments
 
